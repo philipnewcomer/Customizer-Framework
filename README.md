@@ -2,6 +2,8 @@
 
 *A lightweight and easy-to-use framework for the WordPress Customizer*
 
+WordPress Plugin: http://wordpress.org/plugins/customizer-framework/
+
 ## Features
 
 Provides a simple and intuitive API for registering Customizer settings, including advanced control types. Automatically sanitizes settings based on the control type. Eliminates the tedious task of registering a setting, control, and sanitization function for each individual Customizer setting.
